@@ -5,10 +5,10 @@
 
 Ubuntu base image with custom (originally from [Aptible](https://www.aptible.com)) patches and Dockerfile building tools.
 
-<!-- ## Installation and Usage
+## Installation and Usage
 
-    docker pull quay.io/aptible/ubuntu
-    docker run -i -t quay.io/aptible/ubuntu -->
+    docker pull quay.io/cbortz/ubuntu
+    docker run -i -t quay.io/cbortz/ubuntu
 
 ## Available Tags
 
@@ -27,11 +27,11 @@ Tests are run as part of the `Dockerfile` build. To execute them separately with
 
     bats test
 
-<!-- ## Deployment
+## Deployment
 
 To push the Docker image to Quay, run the following command:
 
-    make release -->
+    make release
 
 ## Copyright and License
 
