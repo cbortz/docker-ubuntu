@@ -1,4 +1,4 @@
-Copyright (c) 2013 Aptible, Inc.
+Copyright (c) 2019 Chet Bortz
 
 MIT License
 
