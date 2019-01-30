@@ -12,10 +12,8 @@ Ubuntu base image with custom (originally from [Aptible](https://www.aptible.com
 
 ## Available Tags
 
+* `latest`: Ubuntu 16.04 (LTS)
 * `16.04`: Ubuntu 16.04 (LTS)
-* `latest`: Ubuntu 14.04 (LTS)
-* `14.04`: Ubuntu 14.04 (LTS)
-* `12.04`: Ubuntu 12.04 (LTS)
 
 ## Included Tools/Patches
 
