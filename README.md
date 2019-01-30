@@ -1,7 +1,7 @@
 # docker-ubuntu
 
-<!-- [![Docker Repository on Quay.io](https://quay.io/repository/aptible/ubuntu/status)](https://quay.io/repository/aptible/ubuntu)
-[![Build Status](https://travis-ci.org/aptible/docker-ubuntu.svg?branch=master)](https://travis-ci.org/aptible/docker-ubuntu) -->
+<!-- [![Docker Repository on Quay.io](https://quay.io/repository/aptible/ubuntu/status)](https://quay.io/repository/aptible/ubuntu) -->
+[![Build Status](https://travis-ci.org/cbortz/docker-ubuntu.svg?branch=master)](https://travis-ci.org/cbortz/docker-ubuntu)
 
 Ubuntu base image with custom (originally from [Aptible](https://www.aptible.com)) patches and Dockerfile building tools.
 
