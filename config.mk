@@ -1,4 +1,4 @@
 REGISTRY = quay.io
-REPOSITORY = aptible/ubuntu
+REPOSITORY = cbortz/ubuntu
 
 PUSH_REGISTRIES = $(REGISTRY) docker.io
